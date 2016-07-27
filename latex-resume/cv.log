@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  24 JUL 2016 19:17
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.6.1)  27 JUL 2016 20:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1226,8 +1226,8 @@ Overfull \hbox (5.33997pt too wide) in paragraph at lines 47--47
  [][][]\EU1/texgyreheros-regular.otf(1)/m/n/10 facebook.com/laravelrgs[][]
  []
 
-File: img/techinical-skills.png Graphic file (type QTm)
-<use  "img/techinical-skills.png" >
+File: img/programacao.png Graphic file (type QTm)
+<use  "img/programacao.png" >
 File: img/4stars.png Graphic file (type QTm)
  <use  "img/4stars.png" >
 File: img/3stars.png Graphic file (type QTm)
@@ -1260,7 +1260,7 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  38340 strings out of 493918
- 703626 string characters out of 6150564
+ 703614 string characters out of 6150564
  1089283 words of memory out of 5000000
  41183 multiletter control sequences out of 15000+600000
  4240 words of font info for 45 fonts, out of 8000000 for 9000
